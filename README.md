@@ -9,7 +9,7 @@ to check for the coverage ration between the X and Y chromosomes.
 ### Output
 The output is simply a numeric ratio of the X Y chromosome coverage  It looks like this:
 ```
-X cover reads  <tab> Y cover reads <tab> X / Y ratio : 0.9917
+file name <blank> X cover reads  <blank> Y cover reads <blank> X / Y ratio : 0.9917
 ```
 
 ### Usage
